@@ -1,0 +1,11 @@
+DATA EXPLORATION AND SEMANTIC ANALYSIS
+- graphs (maybe with colouring) by date / / wordclouds
+- comparison between tf idf matrix space and lsa space (?) lsa should be more comprehensive and good for 
+similar meanings and synonims
+- query es. give me strips for term (prank or food) DONE
+
+GENERATION PART
+
+comparing a baseline to a transformer model for example and to other methods.
+
+then how to score (F1 or BLEU or stuff like that) ground truth = masked part of the comic (?)
